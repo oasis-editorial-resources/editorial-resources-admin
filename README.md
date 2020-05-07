@@ -15,7 +15,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details how to join the proje
 
 ## License
 
-Please see the LICENSE file for description of the license terms and OASIS policies applicable to the work in this GitHub project.
+Please see the [LICENSE](https://github.com/oasis-ed-resc/ed-resc-admin/blob/master/LICENSE.md) file for description of the license terms and OASIS policies applicable to the work in this GitHub project.
 
 ## Governance
 
