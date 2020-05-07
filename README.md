@@ -1,6 +1,6 @@
 # OASIS Editorial Resources project
 
-The OASIS Editorial Resources project, along with the companion Kavi group, is a central location for assets to help OASIS technical community members - editors, open source developers, chairs, tc. - work effectively within the OASIS model. It also acts as a locus for those who want to manage tools or stylesheets. 
+The OASIS Editorial Resources project, along with the companion Kavi group, is a central location to support member collaboration on development of editorial resources and improvements. The project will serve as a locus for developing assets that help OASIS technical community members - editors, open source developers, chairs, tc. - work effectively within the OASIS model. 
 
 See also the Editorial Resources Group at https://www.oasis-open.org/committees/oasis-ed-resc/. Any OASIS member is welcome to join this group. 
 
