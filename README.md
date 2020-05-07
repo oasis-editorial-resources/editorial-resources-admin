@@ -4,6 +4,7 @@ The OASIS Editorial Resources project, along with the companion Kavi group, is a
 
 See also the Editorial Resources Group at https://www.oasis-open.org/committees/oasis-ed-resc/. Any OASIS member is welcome to join this group. 
 
+----
 ## Resources for editors
 
 - __DocBook Templates__ - Maintaining stylesheet, authoring instructions, and the methodology for creating and publishing OASIS Committee Specifications and Committee Notes using DocBook XML - https://github.com/oasis-ed-resc/docbook-templates
