@@ -7,7 +7,7 @@ See also the Editorial Resources Group at http://lists.oasis-open.org/committees
 ----
 ## Resources for editors
 
-- __DocBook Templates__ - Maintaining stylesheet, authoring instructions, and the methodology for creating and publishing OASIS Committee Specifications and Committee Notes using DocBook XML - https://github.com/oasis-ed-resc/docbook-templates
+- __DocBook Templates__ - Maintaining stylesheet, authoring instructions, and the methodology for creating and publishing OASIS Committee Specifications and Committee Notes using DocBook XML - https://github.com/editorial-resources-admin/docbook-templates
 
 ----
 ## Contributing
