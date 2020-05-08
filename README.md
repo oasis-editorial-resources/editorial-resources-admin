@@ -9,6 +9,8 @@ See also the Editorial Resources Group at http://lists.oasis-open.org/committees
 
 - __DocBook Templates__ - Maintaining stylesheet, authoring instructions, and the methodology for creating and publishing OASIS Committee Specifications and Committee Notes using DocBook XML - https://github.com/editorial-resources-admin/docbook-templates
 
+- __Google Doc Templates__ - Maintaining stylesheet, templates, and other resources to enable collaborative editing and production of OASIS-styled standards- and non-standards-track work products. - https://github.com/editorial-resources-admin/googledocs-templates
+
 ----
 ## Contributing
 
@@ -16,7 +18,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details how to join the proje
 
 ## License
 
-Please see the [LICENSE](https://github.com/oasis-ed-resc/ed-resc-admin/blob/master/LICENSE.md) file for description of the license terms and OASIS policies applicable to the work in this GitHub project.
+Please see the [LICENSE](https://github.com/editorial-resources-admin/editorial-resources-admin/blob/master/LICENSE.md) file for description of the license terms and OASIS policies applicable to the work in this GitHub project.
 
 ## Governance
 
