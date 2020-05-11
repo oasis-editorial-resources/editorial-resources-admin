@@ -2,14 +2,14 @@
 
 The OASIS Editorial Resources project, along with the companion Kavi group, is a central location to support member collaboration on development of editorial resources and improvements. The project will serve as a locus for developing assets that help OASIS technical community members - editors, open source developers, chairs, tc. - work effectively within the OASIS model. 
 
-See also the Editorial Resources Group at http://lists.oasis-open.org/committees/editorial-resources-admin. Any OASIS member is welcome to join this group. 
+See also the Editorial Resources Group at http://lists.oasis-open.org/committees/oasis-editorial-resources. Any OASIS member is welcome to join this group. 
 
 ----
 ## Resources for editors
 
-- __DocBook Templates__ - Maintaining stylesheet, authoring instructions, and the methodology for creating and publishing OASIS Committee Specifications and Committee Notes using DocBook XML - https://github.com/editorial-resources-admin/docbook-templates
+- __DocBook Templates__ - Maintaining stylesheet, authoring instructions, and the methodology for creating and publishing OASIS Committee Specifications and Committee Notes using DocBook XML - https://github.com/oasis-editorial-resources/docbook-templates
 
-- __Google Doc Templates__ - Maintaining stylesheet, templates, and other resources to enable collaborative editing and production of OASIS-styled standards- and non-standards-track work products. - https://github.com/editorial-resources-admin/googledocs-templates
+- __Google Doc Templates__ - Maintaining stylesheet, templates, and other resources to enable collaborative editing and production of OASIS-styled standards- and non-standards-track work products. - https://github.com/oasis-editorial-resources/googledocs-templates
 
 ----
 ## Contributing
