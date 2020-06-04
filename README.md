@@ -11,7 +11,7 @@ See also the Editorial Resources Group at http://lists.oasis-open.org/committees
 * __DocBook Templates__ - Maintaining stylesheet, authoring instructions, and the methodology for creating and publishing OASIS Committee Specifications and Committee Notes using DocBook XML - <a href="https://github.com/oasis-editorial-resources/docbook-templates">https://github.com/oasis-editorial-resources/docbook-templates</a>
 * __Google Doc Templates__ - Maintaining stylesheet, templates, and other resources to enable collaborative editing and production of OASIS-styled standards- and non-standards-track work products. - <a href="https://github.com/oasis-editorial-resources/googledocs-templates">https://github.com/oasis-editorial-resources/googledocs-templates</a>
 * __DITA Stylesheets__ - Supporting development and maintenance of the style sheets and other resources that are used to build OASIS-styled publications from DITA source - <a href="https://github.com/oasis-open/dita-stylesheets">https://github.com/oasis-open/dita-stylesheets</a>
-* __ReSpec Stylesheets__  Supporting development and maintenance of extensions to the ReSpec application to enable it to produce OASIS-styled specifications - <a href="https://github.com/oasis-editorial-resources/googledocs-templates">https://github.com/oasis-editorial-resources/googledocs-templates</a>
+* __ReSpec Stylesheets__  Coming soon
 * __Coming Soon__ - Stylesheets and instructions for creating OASIS Specs with markdown
 
 ## Editor's Manual
